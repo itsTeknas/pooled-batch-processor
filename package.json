@@ -1,6 +1,6 @@
 {
   "name": "pooled-batch-processor",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A utility wrapper around es6-promise-pool that lets you process data arrays in batches",
   "main": "index.js",
   "scripts": {
